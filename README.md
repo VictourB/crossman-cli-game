@@ -8,6 +8,6 @@ A dark, atmospheric take on the classic Hangman game, built with **Object-Orient
 * **OOP Architecture**: Uses a `CrossmanGame` class to manage game state, logic, and rendering.
 * **ASCII Rendering**: Features multi-stage ASCII art that updates based on player performance.
 
-## 🚀 How to Play
+## How to Play
 1. Ensure you have Python 3.10+ installed.
 2. Run `python crossman.py`.
